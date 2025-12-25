@@ -36,8 +36,6 @@
 
 ---
 
----
-
 ###  Connect with Me
 -  [Portfolio Website](https://shreyansh6726.vercel.app/)
 -  [LinkedIn](https://www.linkedin.com/in/shreyansh-srivastava-b4b1a6257)
