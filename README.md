@@ -8,10 +8,10 @@
 ---
 
 ### 🚀 About Me
-- [cite_start]🎓 **Education**: Currently pursuing B.Tech in Computer Science (AIML) at Greater Noida Institute of Technology[cite: 12, 13].
-- [cite_start]🛠️ **Focus**: Specializing in building scalable apps using Firebase and deploying LLM-integrated chatbots[cite: 9].
-- [cite_start]💡 **Goal**: Proactive and research-driven undergraduate with hands-on experience in deep learning and AI-based application building[cite: 8].
-- [cite_start]📍 **Location**: Gurgaon, Haryana[cite: 2].
+-  **Education**: Currently pursuing B.Tech in Computer Science (AIML) at Greater Noida Institute of Technology.
+-  **Focus**: Specializing in building scalable apps using Firebase and deploying LLM-integrated chatbots.
+-  **Goal**: Proactive and research-driven undergraduate with hands-on experience in deep learning and AI-based application building.
+-  **Location**: Gurgaon, Haryana.
 
 ---
 
@@ -19,20 +19,20 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | [cite_start]Python, C++, Java, JavaScript, C#, MySQL, HTML/CSS [cite: 20] |
-| **Frontend/Backend** | [cite_start]React Js, Next Js, Node Js, Express, FastAPI, Tailwind CSS [cite: 22] |
-| **AI & ML** | [cite_start]LangChain, Hugging Face, Ollama, Google Vertex AI, TensorFlow [cite: 22, 27, 37] |
-| **Cloud & DevOps** | [cite_start]AWS (EC2/S3), Docker, Kubernetes, Terraform, Git [cite: 23] |
-| **Databases** | [cite_start]PostgreSQL, MongoDB, Redis, Pinecone, Firebase [cite: 9, 25] |
+| **Languages** | Python, C++, Java, JavaScript, C#, MySQL, HTML/CSS |
+| **Frontend/Backend** | React Js, Next Js, Node Js, Express, FastAPI, Tailwind CSS |
+| **AI & ML** | LangChain, Hugging Face, Ollama, Google Vertex AI, TensorFlow |
+| **Cloud & DevOps** | AWS (EC2/S3), Docker, Kubernetes, Terraform, Git |
+| **Databases** | PostgreSQL, MongoDB, Redis, Pinecone, Firebase |
 
 ---
 
 ### 🌟 Featured Projects
 
-* [cite_start]**Groq based Chatbot** *Real-time AI response system built using Groq API[cite: 31, 32].*
-* [cite_start]**AI Agricultural Platform** *Full-stack solution for farmers featuring crop disease detection and AI voice I/O[cite: 36].*
-* [cite_start]**Stock Prediction Model** *Machine Learning model trained to predict stock prices based on historical datasets[cite: 29, 30].*
-* [cite_start]**Face Recognition Attendance** *ML-powered authentication system for real-time record keeping[cite: 35].*
+* **Groq based Chatbot** — Real-time AI response system built using Groq API.
+* **AI Agricultural Platform** — Full-stack solution for farmers featuring crop disease detection and AI voice I/O.
+* **Stock Prediction Model** — Machine Learning model trained to predict stock prices based on historical datasets.
+* **Face Recognition Attendance** — ML-powered authentication system for real-time record keeping.
 
 ---
 
@@ -45,6 +45,6 @@
 ---
 
 ### 📬 Connect with Me
-- [cite_start]🌐 [Portfolio Website](https://shreyansh6726.vercel.app/) [cite: 6]
-- [cite_start]💼 [LinkedIn](https://www.linkedin.com/in/shreyansh-srivastava-b4b1a6257) [cite: 4]
-- [cite_start]📧 [Email](mailto:shreyansh.official.6726@gmail.com) [cite: 3]
+-  [Portfolio Website](https://shreyansh6726.vercel.app/)
+-  [LinkedIn](https://www.linkedin.com/in/shreyansh-srivastava-b4b1a6257)
+-  [Email](mailto:shreyansh.official.6726@gmail.com)
