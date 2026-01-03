@@ -38,7 +38,7 @@
 
 ### Github Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyansh6726&show_icons=true&theme=radical)
-
+![Shreyansh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyansh6726&theme=radical)
 ###  Connect with Me
 -  [Portfolio Website](https://shreyansh6726.vercel.app/)
 -  [LinkedIn](https://www.linkedin.com/in/shreyansh-srivastava-b4b1a6257)
