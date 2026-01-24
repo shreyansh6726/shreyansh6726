@@ -7,8 +7,16 @@
 
 ---
 #  About Me:
-Education: Currently pursuing B.Tech in Computer Science (AIML) at Greater Noida Institute of Technology.<br>Focus: Specializing in building scalable apps using Firebase and deploying LLM-integrated chatbots.<br>Goal: Proactive and research-driven undergraduate with hands-on experience in deep learning and AI-based application building.<br>Location: Gurgaon, Haryana.
+<div align="center">
 
+| Section | Details |
+| :--- | :--- |
+| **🎓 Education** | B.Tech in Computer Science (AIML) @ GNIOT |
+| **🚀 Focus** | Scalable Apps (Firebase) • LLM Chatbot Deployment |
+| **🧠 Expertise** | Deep Learning • AI Application Architecture |
+| **📍 Location** | Gurgaon, Haryana, India |
+
+</div>
 
 ##  Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/shreyansh6726) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyansh_6726) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shreyansh6726) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shreyansh6726) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyansh.official.6726@gmail.com) 
