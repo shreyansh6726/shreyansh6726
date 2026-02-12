@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=B.Tech+in+Computer+Science+(AIML);Building+Scalable+AI+Applications;Deep+Learning+%26+Web+Dev+Explorer" alt="Typing SVG" />
 </div>
 
----
 #  About Me:
 <div align="center">
 
